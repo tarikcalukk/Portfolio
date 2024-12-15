@@ -19,8 +19,8 @@ export const projects = [
     title: "Real-Estate Web App",
     subtitle: "HTML, CSS, JS, Node",
     description:
-      "Web app in development...",
-    image: "./real-estate.png",
+      "A responsive and interactive real-estate web application designed for property browsing and management.",
+    image: "./real-estate.jpg",
     link: "https://github.com/tarikcalukk/Real-Estate",
   },
   {
