@@ -1,19 +1,19 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Plant App",
+    subtitle: "Kotlin, SQL, JSON, Android Studio",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Mobile application that allows users to manage information about various plants, including their medical, culinary, and botanical characteristics.",
+    image: "./plant.png",
+    link: "https://github.com/tarikcalukk/Plant-App/tree/master",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Car Dealership",
+    subtitle: ".Net, C#, Sql, Html, Css" ,
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reedbarger.com",
+      " In this project, our team developed a comprehensive web application aimed at streamlining the management of auto dealerships.",
+    image: "./car.png",
+    link: "https://github.com/tarikcalukk/AutoKuca",
   },
   {
     title: "DevChat",
