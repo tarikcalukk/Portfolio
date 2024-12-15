@@ -9,39 +9,39 @@ export const projects = [
   },
   {
     title: "Car Dealership",
-    subtitle: ".Net, C#, Sql, Html, Css" ,
+    subtitle: ".Net, C#, Sql, HTML, CSS" ,
     description:
       " In this project, our team developed a comprehensive web application aimed at streamlining the management of auto dealerships.",
     image: "./car.png",
     link: "https://github.com/tarikcalukk/AutoKuca",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Real-Estate Web App",
+    subtitle: "HTML, CSS, JS, Node",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://jsbootcamp.com",
+      "Web app in development...",
+    image: "./real-estate.png",
+    link: "https://github.com/tarikcalukk/Real-Estate",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Digital Signal Processing in Medicine - MRI",
+    subtitle: "Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://pythonbootcamp.com",
+      "This project focused on digital signal processing (DSP) in the medical field, specifically applied to MRI and CT technologies.",
+    image: "./MRI.png",
+    link: "https://github.com/tarikcalukk/MRI",
   },
 ];
 
 export const skills = {
   "Programming Languages": [
-    "JavaScript", "HTML", "CSS", "C++", "Java", "C", "C#", "Kotlin", "Python"
+    "JavaScript", "C++", "Java", "C", "C#", "Kotlin", "Python"
   ],
   "Frameworks & IDEs": [
     "React", "Android Studio", "JetBrains Intellij Idea", "Visual Studio", ".NET"
   ],
   "Technologies": [
-    "Tailwind", "JSON", "Git"
+    "Tailwind", "JSON", "Git", "HTML", "CSS"
   ],
   "Databases": [
     "SQL", "Oracle"

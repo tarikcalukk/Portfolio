@@ -29,7 +29,7 @@ export default function Skills() {
                     alt={skill}
                     className="w-full h-full object-cover"
                   />
-                  <div className="absolute opacity-0 group-hover:opacity-100 text-white text-sm font-medium transition-opacity duration-200">
+                  <div className="absolute opacity-0 group-hover:opacity-100 text-grey text-sm font-medium transition-opacity duration-200">
                     {skill}
                   </div>
                 </div>
